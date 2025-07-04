@@ -7,9 +7,10 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 ![2025-07-03-175737_hyprshot](https://github.com/user-attachments/assets/452e50dc-b388-4d32-8066-822c205ba26f)
 ![2025-07-03-174700_hyprshot](https://github.com/user-attachments/assets/7b751e05-0fe7-474d-856c-600617046309)
 
-# Remember to
+# 📝Notes
+### Remember to
 - Install yay and nwg-look (that's for the GTK themes)
-# I also use
+### I also use
 - Gedit (files)<br>
 - Ark (extract)<br>
 - Ly (TUI display manager)
