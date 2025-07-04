@@ -1,5 +1,5 @@
 # Hyprland-Gruvbox
-A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles. I have created this to remember what I did in the past.
+A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles. I have created this to remember what I did in the past. (Some things are not mine, like Dunst or Waybar).
 
 ![2025-07-03-174432_hyprshot](https://github.com/user-attachments/assets/5f3f2089-5ec7-4b37-b975-0bc7411f2ddb)
 ![2025-07-03-174506_hyprshot](https://github.com/user-attachments/assets/2cf1ee06-6ded-45de-ab2e-0d1e7bd1fbe0)
