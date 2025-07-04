@@ -10,14 +10,14 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 
 ## 💻 What is included?
 - [**Dunst**](https://github.com/dunst-project/dunst): Lightweight notification daemon for Linux.
-- [**Fastfetch:** Fast tool to display system info in the terminal.
-- **Hypr:** Dynamic window manager/compositor for Wayland (like i3, but modern).
-- **Kitty:** GPU-accelerated, fast terminal emulator.
-- **Nvim:** Modern, extensible Vim-based text editor.
-- **Rofi:** Application, window, and script launcher (like a popup menu).
-- **Waybar:** Customizable status bar for Wayland.
-- **Zsh and Oh My Zsh!:** Advanced shell + framework with themes and plugins.
-- **Thunar:** Lightweight, fast file manager (from Xfce).
-- **Yay:** AUR helper for installing packages from the Arch User Repository.
-- **Nwg-look:** GUI tool to set GTK themes and appearance.
-- **Gedit, Ark and Ly:** files, extract and TUI display manager
+- [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch): Fast tool to display system info in the terminal.
+- [**Hyprland**](https://github.com/hyprwm/Hyprland): Dynamic window manager/compositor for Wayland (like i3, but modern).
+- [**Kitty**](https://github.com/kovidgoyal/kitty): GPU-accelerated, fast terminal emulator.
+- [**Nvim**](https://github.com/neovim/neovim): Modern, extensible Vim-based text editor.
+- [**Rofi**](https://github.com/davatorium/rofi): Application, window, and script launcher (like a popup menu).
+- [**Waybar**](https://github.com/Alexays/Waybar): Customizable status bar for Wayland.
+- [**Zsh**](https://github.com/zsh-users/zsh) **and** [**Oh My Zsh!**](https://github.com/ohmyzsh/ohmyzsh): Advanced shell + framework with themes and plugins.
+- [**Thunar**](https://github.com/xfce-mirror/thunar): Lightweight, fast file manager (from Xfce).
+- [**Yay**](https://github.com/Jguer/yay): AUR helper for installing packages from the Arch User Repository.
+- [**Nwg-look**](https://github.com/nwg-piotr/nwg-look): GUI tool to set GTK themes and appearance.
+- [**Gedit**](https://gedit-text-editor.org/), [**Ark**](https://github.com/KDE/ark) **and** [**Ly**](https://github.com/fairyglade/ly): files, extract and TUI display manager
