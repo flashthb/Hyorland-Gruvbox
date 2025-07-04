@@ -1,4 +1,4 @@
-# 📦 Personal Gruvbpx Hyprland Rice Dotfiles
+# 📦 Personal Gruvbox Hyprland Rice Dotfiles
 A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar).<br> **I created this to remember what I did in the past and it is still in development.**
 
 ## 📷 Show
