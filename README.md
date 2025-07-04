@@ -10,6 +10,13 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 #REMEMBER TO
 -Install yay and nwg-look (that's for the GTK themes)
 
+
+# A first-level heading
+## A second-level heading
+### A third-level heading
+
+
+
 #I ALSO USE:
 -Gedit (files)<br>
 -Ark (extract)<br>
