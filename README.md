@@ -1,5 +1,5 @@
 # 📦 Personal Gruvbpx Hyprland Rice Dotfiles
-A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar). **I created this to remember what I did in the past and it is still in development**
+A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar).<br> **I created this to remember what I did in the past and it is still in development**
 
 ## 📷 Show
 ![2025-07-03-174432_hyprshot](https://github.com/user-attachments/assets/5f3f2089-5ec7-4b37-b975-0bc7411f2ddb)
@@ -9,16 +9,15 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 ![2025-07-03-174700_hyprshot](https://github.com/user-attachments/assets/7b751e05-0fe7-474d-856c-600617046309)
 
 ## 💻 U need
-- Dunst:
-- Fastfetch:
-- Hypr:
-- Kitty:
-- Nvim:
-- Rofi:
-- Waybar:
-- Zsh and Oh My Zsh:
-- Thunar:
-- Gedit, Ark and Ly: files, extract and TUI display manager
-- Yay
-- Nwg-look:
-- Gedit, Ark and Ly: files, extract and TUI display manager
+- **Dunst**: Lightweight notification daemon for Linux.
+- **Fastfetch:**
+- **Hypr:**
+- **Kitty:**
+- **Nvim:**
+- **Rofi:**
+- **Waybar:**
+- **Zsh and Oh My Zsh!:**
+- **Thunar:**
+- **Yay:**
+- **Nwg-look:**
+- **Gedit, Ark and Ly:** files, extract and TUI display manager
