@@ -1,5 +1,5 @@
 # 📦 Personal Gruvbpx Hyprland Rice Dotfiles
-A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles. I have created this to remember what I did in the past. (Some things are not mine, like Dunst or Waybar).
+A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar). **I created this to remember what I did in the past and it is still in development**
 
 ## 📷 Show
 ![2025-07-03-174432_hyprshot](https://github.com/user-attachments/assets/5f3f2089-5ec7-4b37-b975-0bc7411f2ddb)
@@ -22,6 +22,3 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 - Yay
 - Nwg-look:
 - Gedit, Ark and Ly: files, extract and TUI display manager
-
-
-## 📝 Notes
