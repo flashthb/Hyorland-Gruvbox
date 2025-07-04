@@ -1,5 +1,5 @@
 # 📦 Personal Gruvbpx Hyprland Rice Dotfiles
-A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar).<br> **I created this to remember what I did in the past and it is still in development**
+A  Gruvbox theme based on other Gruvbox creations to be able to modify and create some good dotfiles (some things are not mine, like Dunst or Waybar).<br> **I created this to remember what I did in the past and it is still in development.**
 
 ## 📷 Show
 ![2025-07-03-174432_hyprshot](https://github.com/user-attachments/assets/5f3f2089-5ec7-4b37-b975-0bc7411f2ddb)
@@ -10,14 +10,14 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 
 ## 💻 U need
 - **Dunst**: Lightweight notification daemon for Linux.
-- **Fastfetch:**
-- **Hypr:**
-- **Kitty:**
-- **Nvim:**
-- **Rofi:**
-- **Waybar:**
-- **Zsh and Oh My Zsh!:**
-- **Thunar:**
-- **Yay:**
-- **Nwg-look:**
+- **Fastfetch:** Fast tool to display system info in the terminal.
+- **Hypr:** Dynamic window manager/compositor for Wayland (like i3, but modern).
+- **Kitty:** GPU-accelerated, fast terminal emulator.
+- **Nvim:** Modern, extensible Vim-based text editor.
+- **Rofi:** Application, window, and script launcher (like a popup menu).
+- **Waybar:** Customizable status bar for Wayland.
+- **Zsh and Oh My Zsh!:** Advanced shell + framework with themes and plugins.
+- **Thunar:** Lightweight, fast file manager (from Xfce).
+- **Yay:** AUR helper for installing packages from the Arch User Repository.
+- **Nwg-look:** GUI tool to set GTK themes and appearance.
 - **Gedit, Ark and Ly:** files, extract and TUI display manager
