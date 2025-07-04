@@ -8,9 +8,9 @@ A  Gruvbox theme based on other Gruvbox creations to be able to modify and creat
 ![2025-07-03-175737_hyprshot](https://github.com/user-attachments/assets/452e50dc-b388-4d32-8066-822c205ba26f)
 ![2025-07-03-174700_hyprshot](https://github.com/user-attachments/assets/7b751e05-0fe7-474d-856c-600617046309)
 
-## 💻 U need
+## 💻 What is included?
 - **Dunst**: Lightweight notification daemon for Linux.
-- <br>**Fastfetch:** Fast tool to display system info in the terminal.
+- **Fastfetch:** Fast tool to display system info in the terminal.
 - **Hypr:** Dynamic window manager/compositor for Wayland (like i3, but modern).
 - **Kitty:** GPU-accelerated, fast terminal emulator.
 - **Nvim:** Modern, extensible Vim-based text editor.
